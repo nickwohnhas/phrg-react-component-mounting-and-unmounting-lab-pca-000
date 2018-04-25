@@ -40,3 +40,4 @@ That's it! You've finished off the game! Happy pancake-making!
 - [React: Component Specs and Lifecycle](https://facebook.github.io/react/docs/component-specs.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-component-mounting-and-unmounting-lab'>Component Mounting And Unmounting Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React: Component Mounting and Unmounting</p>
